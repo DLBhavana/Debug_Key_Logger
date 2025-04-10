@@ -1,0 +1,21 @@
+Test Case-1:
+
+Enter a password to check its strength: Setkjh@ 12
+Password Strength: Strong
+
+Test Case-2:
+
+Enter a password to check its strength: passwaord@1
+Password Strength: Medium
+Suggestions:
+- Add at least one uppercase letter.
+
+Test Case-3:
+
+Enter a password to check its strength: bhjbh
+Password Strength: Weak
+Suggestions:
+- Password should be at least 8 characters long.
+- Add at least one uppercase letter.
+- Include at least one number.
+- Use at least one special character (!@#$%^&* etc.).
